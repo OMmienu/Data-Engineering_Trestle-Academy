@@ -1,1 +1,2 @@
-Query 1 was used to retrieve all fields from the Students table
+Query 1 'Select All Fields from a Table'
+Write a query to retrieve all fields from the Students table
