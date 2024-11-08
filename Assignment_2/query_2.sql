@@ -1,1 +1,2 @@
-Query 2 was used to retrieve the details of students who are above a certain age. The 'WHERE' clause was used 
+Query 2 'Filter with WHERE'
+Retrieve the details of students who are above a certain age(eg.18). The 'WHERE' clause was used 
