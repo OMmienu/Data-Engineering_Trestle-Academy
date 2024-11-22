@@ -16,7 +16,7 @@ This project uses [TheMealDB API](https://www.themealdb.com/api.php) to fetch re
 4. Find the output in `meals_data.csv`.
 
 ## Sample Output:
-| idMeal   | strMeal         | strCategory | strArea    | strInstructions          | strMealThumb                 |
+| Meal_ID   | Meal_Name         | Category | Region    | Instructions          | Thumbnail_URL:                 |
 |----------|-----------------|-------------|------------|--------------------------|------------------------------|
 | 52772    | Chicken Handi   | Chicken     | Pakistani  | [Cooking Instructions]   | https://link-to-thumbnail.jpg|
 
